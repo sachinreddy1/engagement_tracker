@@ -1,0 +1,9 @@
+path: C:\Users\\reddy\\Documents\\Projects\\Etc\\EngagementTracker\\aug_data
+train: images\train
+val: images\val
+test: images\test
+
+## Classes
+names:
+    0: not_engaged
+    1: engaged
