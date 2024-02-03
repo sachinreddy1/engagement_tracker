@@ -1,0 +1,14 @@
+description: Ultralytics YOLOv8n model trained on config.yaml
+author: Ultralytics
+license: AGPL-3.0 https://ultralytics.com/license
+date: '2024-02-02T15:02:24.798319'
+version: 8.1.8
+stride: 32
+task: detect
+batch: 1
+imgsz:
+- 640
+- 640
+names:
+  0: not_engaged
+  1: engaged
