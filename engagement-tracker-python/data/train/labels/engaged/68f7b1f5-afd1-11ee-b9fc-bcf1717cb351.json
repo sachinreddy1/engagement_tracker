@@ -1,5 +1,5 @@
 {
-  "version": "5.3.1",
+  "version": "5.4.1",
   "flags": {},
   "shapes": [
     {
@@ -10,14 +10,15 @@
           203.28502415458937
         ],
         [
-          338.35748792270533,
-          289.75845410628017
+          340.17543859649123,
+          240.43859649122805
         ]
       ],
       "group_id": null,
       "description": "",
       "shape_type": "rectangle",
-      "flags": {}
+      "flags": {},
+      "mask": null
     }
   ],
   "imagePath": "..\\..\\images\\engaged\\68f7b1f5-afd1-11ee-b9fc-bcf1717cb351.jpg",

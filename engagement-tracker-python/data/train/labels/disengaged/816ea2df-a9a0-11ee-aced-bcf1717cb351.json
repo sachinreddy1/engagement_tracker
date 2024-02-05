@@ -1,23 +1,24 @@
 {
-  "version": "5.3.1",
+  "version": "5.4.1",
   "flags": {},
   "shapes": [
     {
       "label": "disengaged",
       "points": [
         [
-          217.1875,
-          182.5
+          219.1228070175439,
+          186.05263157894734
         ],
         [
-          292.1875,
-          268.125
+          299.82456140350877,
+          214.12280701754383
         ]
       ],
       "group_id": null,
       "description": "",
       "shape_type": "rectangle",
-      "flags": {}
+      "flags": {},
+      "mask": null
     }
   ],
   "imagePath": "..\\..\\images\\disengaged\\816ea2df-a9a0-11ee-aced-bcf1717cb351.jpg",

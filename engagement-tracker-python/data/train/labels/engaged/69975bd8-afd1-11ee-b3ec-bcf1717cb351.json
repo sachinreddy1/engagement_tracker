@@ -1,23 +1,24 @@
 {
-  "version": "5.3.1",
+  "version": "5.4.1",
   "flags": {},
   "shapes": [
     {
       "label": "engaged",
       "points": [
         [
-          241.73913043478262,
-          208.5990338164251
+          240.17543859649126,
+          214.12280701754383
         ],
         [
-          321.9323671497585,
-          298.93719806763283
+          323.5087719298246,
+          247.4561403508772
         ]
       ],
       "group_id": null,
       "description": "",
       "shape_type": "rectangle",
-      "flags": {}
+      "flags": {},
+      "mask": null
     }
   ],
   "imagePath": "..\\..\\images\\engaged\\69975bd8-afd1-11ee-b3ec-bcf1717cb351.jpg",
