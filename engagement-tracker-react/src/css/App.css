@@ -18,7 +18,7 @@ code {
 
 .App-header {
   background-color: #282c34;
-  height: 95vh;
+  height: 90vh;
   font-size: calc(10px + 2vmin);
   color: white;
 
@@ -26,6 +26,8 @@ code {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+
+  padding-top: 5vh;
 }
 
 @media (min-width: 65em) {
@@ -67,6 +69,31 @@ code {
   float: right;
   position: relative;
   align-items: center;
+}
+
+.header {
+  position: fixed;
+  left: 0;
+  top: 0;
+
+  width: 100vw;
+  background-color: #0a101b;
+  color: whitesmoke;
+  
+  height: 5vh;
+  font-size: 3vh;
+  display: flex;
+
+  align-items: center;
+  justify-content: center;
+
+  font-family: 'Roboto', sans-serif;
+  font-weight: 100;
+  z-index: 10;
+}
+
+.headerText {
+  font-size: calc(5px + 1.8vmin);
 }
 
 /* ------------- */

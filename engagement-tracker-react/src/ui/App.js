@@ -4,6 +4,7 @@ import * as tf from "@tensorflow/tfjs";
 import { detect } from "../util/utilities"; 
 import EngagementTracker from './EngagementTracker';
 import Footer from './Footer';
+import Header from './Header';
 import ReactGA from 'react-ga4';
 
 function App() {
@@ -40,6 +41,7 @@ function App() {
   
   return (
     <div>
+      <Header />
       <EngagementTracker
         webcamRef={webcamRef}
         canvasRef={canvasRef}

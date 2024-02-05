@@ -54,7 +54,7 @@ export const drawRect = (boxes, isFace, isEngaged, imgWidth, imgHeight, ctx, upd
     if(isFace[0] > 0.7){
         const [x1, y1, x2, y2] = boxes
         
-        if (isEngaged[0] > 0.9) {
+        if (isEngaged[0] >= 0.5) {
             updateEngagementLevel(1)
 
             ctx.strokeStyle = '#32cd80'
@@ -63,7 +63,7 @@ export const drawRect = (boxes, isFace, isEngaged, imgWidth, imgHeight, ctx, upd
             ctx.font = '1.2em Staatliches'         
             
             ctx.beginPath()
-            ctx.fillText('Engaged: ' + Math.round(isEngaged[0] * 100) / 100, x1, y1 - 10)
+            ctx.fillText('Engaged', x1, y1 - 10)
             ctx.rect(x1, y1, (x2 - x1), (y2 - y1));
             ctx.stroke()
         } else {
@@ -75,7 +75,7 @@ export const drawRect = (boxes, isFace, isEngaged, imgWidth, imgHeight, ctx, upd
             ctx.font = '1.2em Staatliches'         
             
             ctx.beginPath()
-            ctx.fillText('Not Engaged: ' + Math.round((1 - isEngaged[0]) * 100) / 100, x1, y1 - 10)
+            ctx.fillText('Not Engaged', x1, y1 - 10)
             ctx.rect(x1, y1, (x2 - x1), (y2 - y1));
             ctx.stroke()
         }
