@@ -55,6 +55,294 @@
       "shape_type": "rectangle",
       "flags": {},
       "mask": null
+    },
+    {
+      "label": "disengaged",
+      "points": [
+        [
+          345.4948301329394,
+          268.97341211226
+        ],
+        [
+          357.6070901033973,
+          274.73412112259973
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "disengaged",
+      "points": [
+        [
+          370.6056129985229,
+          669.2688330871491
+        ],
+        [
+          401.6248153618907,
+          686.8463810930575
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "disengaged",
+      "points": [
+        [
+          729.4019607843137,
+          596.7647058823529
+        ],
+        [
+          757.0980392156863,
+          612.6960784313726
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "disengaged",
+      "points": [
+        [
+          782.9545454545455,
+          609.375
+        ],
+        [
+          803.6931818181819,
+          619.6022727272727
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "disengaged",
+      "points": [
+        [
+          949.1477272727273,
+          613.3522727272727
+        ],
+        [
+          963.0681818181819,
+          628.9772727272727
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "disengaged",
+      "points": [
+        [
+          930.1136363636364,
+          728.125
+        ],
+        [
+          884.6590909090909,
+          743.4659090909091
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "disengaged",
+      "points": [
+        [
+          100.85227272727273,
+          561.0795454545455
+        ],
+        [
+          114.77272727272727,
+          568.4659090909091
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "disengaged",
+      "points": [
+        [
+          252.17864923747277,
+          519.6949891067538
+        ],
+        [
+          263.9433551198257,
+          523.5076252723311
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "disengaged",
+      "points": [
+        [
+          394.5,
+          519.4
+        ],
+        [
+          402.3,
+          523.6
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "disengaged",
+      "points": [
+        [
+          451.6,
+          518.8
+        ],
+        [
+          460.9,
+          522.9
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "disengaged",
+      "points": [
+        [
+          463.2,
+          555.6
+        ],
+        [
+          474.7,
+          561.9
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "disengaged",
+      "points": [
+        [
+          346.1095100864553,
+          404.5965417867435
+        ],
+        [
+          359.0778097982709,
+          411.2247838616715
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "disengaged",
+      "points": [
+        [
+          46.67472793228537,
+          524.0568319226119
+        ],
+        [
+          55.38089480048368,
+          527.2007255139057
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "disengaged",
+      "points": [
+        [
+          2.071563088512241,
+          574.171374764595
+        ],
+        [
+          10.922787193973633,
+          582.6459510357815
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "disengaged",
+      "points": [
+        [
+          810.2,
+          522.8
+        ],
+        [
+          816.8,
+          526.5
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "disengaged",
+      "points": [
+        [
+          954.4444444444445,
+          509.1358024691358
+        ],
+        [
+          960.8641975308642,
+          512.5925925925926
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
     }
   ],
   "imagePath": "..\\images\\bfe23d4ff9f414ba.jpg",
