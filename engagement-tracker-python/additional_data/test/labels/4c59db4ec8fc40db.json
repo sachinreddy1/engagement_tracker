@@ -19,6 +19,42 @@
       "shape_type": "rectangle",
       "flags": {},
       "mask": null
+    },
+    {
+      "label": "disengaged",
+      "points": [
+        [
+          67.19672131147541,
+          402.4426229508197
+        ],
+        [
+          90.96721311475409,
+          417.6065573770492
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "disengaged",
+      "points": [
+        [
+          752.5939177101968,
+          438.6404293381038
+        ],
+        [
+          761.8962432915921,
+          446.86940966010735
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
     }
   ],
   "imagePath": "..\\images\\4c59db4ec8fc40db.jpg",
