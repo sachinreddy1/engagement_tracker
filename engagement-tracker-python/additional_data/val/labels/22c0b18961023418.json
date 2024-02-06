@@ -37,6 +37,24 @@
       "shape_type": "rectangle",
       "flags": {},
       "mask": null
+    },
+    {
+      "label": "disengaged",
+      "points": [
+        [
+          859.2560975609755,
+          443.14634146341456
+        ],
+        [
+          928.7682926829269,
+          520.5853658536585
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
     }
   ],
   "imagePath": "..\\images\\22c0b18961023418.jpg",
